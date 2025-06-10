@@ -1,2 +1,2 @@
-# Pr-ctica-creaci-n-de-componente-en-React-con-Vite
+Practiva de creacion de component en Reac con Vite
 React
