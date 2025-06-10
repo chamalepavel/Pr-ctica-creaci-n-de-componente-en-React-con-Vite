@@ -1,0 +1,15 @@
+import React from 'react';
+import ClassComponent from './components/ClassComponent';
+import FunctionComponent from './components/FunctionComponent';
+
+function App() {
+  return (
+    <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
+      <h1>Primera Práctica con React + Vite</h1>
+      <ClassComponent />
+      <FunctionComponent />
+    </div>
+  );
+}
+
+export default App;
